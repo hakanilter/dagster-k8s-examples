@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+datapyro/__init__.py
+datapyro.egg-info/PKG-INFO
+datapyro.egg-info/SOURCES.txt
+datapyro.egg-info/dependency_links.txt
+datapyro.egg-info/requires.txt
+datapyro.egg-info/top_level.txt
